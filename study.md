@@ -14,7 +14,7 @@ class.
 
 Submit detailed answers to these in this file via a pull request.
 
-(wireframe pics are in adjacent tab)
+(wireframe pics are at following filepath)
 `./tic-tac-toe-wireframes.jpg`
 
 DATA STRUCTURE
@@ -38,16 +38,16 @@ was not able to meet all preoject requirements in the time allotted.
 Items I will implement are listed in the TODO below.
 
 USER STORIES
-  -As a user, I want to be able to sign up.
-  -As a user who has already signed up, I want to be able to sign in.
-  -As a user, I want to be able to change my password.
-  -As a user, I want to know that my password is being stored securely.
-  -As a user, I want to play a game of tic-tac-toe.
-  -As a user, I want to be notified when X or O wins, and which one, or if there
+1.  As a user, I want to be able to sign up.
+2.  As a user who has already signed up, I want to be able to sign in.
+3.  As a user, I want to be able to change my password.
+4.  As a user, I want to know that my password is being stored securely.
+5.  As a user, I want to play a game of tic-tac-toe.
+6.  As a user, I want to be notified when X or O wins, and which one, or if there
    is a tie.
-  -As a user, I want to have the wins, losses, and ties associated with my
+7.  As a user, I want to have the wins, losses, and ties associated with my
   username appear in the browser.
-  -As a user, I want to interact with a visually pleasing UI that is easy to
+8.  As a user, I want to interact with a visually pleasing UI that is easy to
   understand and intuitive.
 
 PLAN TO KEEP CODE MODULAR
@@ -79,17 +79,17 @@ when I have time, I will work on items from the list below to improve this first
 project until it is a piece of my portfolio I am pleased with.
 
 TODO
--make my code more DRY
--improve CSS for a better UI (eg, hide sign-in/password buttons after sign-in,
-make page layout less vertical, etc.)
--experiment with modals for sign-up, sign-in
--implement more semantic html tags (ie, avoid using divs whenever possible)
--separate css concerns by placing styles in 'themes', 'typography' files
--store colors in `$font-color, etc names for better DRY code
--update game logic to reflect wins/losses/ties counter (currently static)
--update current game logic to reflect tie conditions (bug fix)
--make app responsive by adding breakpoints
--clean up my code by making it more readable and removing unnecessary code
-blocks or commented-out lines
--improve the logic of my folder and file system with more files and enhanced
-naming conventions
+  -make my code more DRY
+  -improve CSS for a better UI (eg, hide sign-in/password buttons after sign-in,
+  make page layout less vertical, etc.)
+  -experiment with modals for sign-up, sign-in
+  -implement more semantic html tags (ie, avoid using divs whenever possible)
+  -separate css concerns by placing styles in 'themes', 'typography' files
+  -store colors in `$font-color, etc names for better DRY code
+  -update game logic to reflect wins/losses/ties counter (currently static)
+  -update current game logic to reflect tie conditions (bug fix)
+  -make app responsive by adding breakpoints
+  -clean up my code by making it more readable and removing unnecessary code
+  blocks or commented-out lines
+  -improve the logic of my folder and file system with more files and enhanced
+  naming conventions
