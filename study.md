@@ -12,7 +12,6 @@ After reading the `game-project` prompt and the `game-project-api` documentation
 please do the following and be prepared to share and discuss during our next
 class.
 
-```md
 Submit detailed answers to these in this file via a pull request.
 
 (wireframe pics are in adjacent tab)
@@ -44,9 +43,12 @@ USER STORIES
   -As a user, I want to be able to change my password.
   -As a user, I want to know that my password is being stored securely.
   -As a user, I want to play a game of tic-tac-toe.
-  -As a user, I want to be notified when X or O wins, and which one, or if there is a tie.
-  -As a user, I want to have the wins, losses, and ties associated with my username appear in the browser.
-  -As a user, I want to interact with a visually pleasing UI that is easy to understand and intuitive.
+  -As a user, I want to be notified when X or O wins, and which one, or if there
+   is a tie.
+  -As a user, I want to have the wins, losses, and ties associated with my
+  username appear in the browser.
+  -As a user, I want to interact with a visually pleasing UI that is easy to
+  understand and intuitive.
 
 PLAN TO KEEP CODE MODULAR
 I will try to implement a rough separation of concerns by following naming
@@ -91,5 +93,3 @@ make page layout less vertical, etc.)
 blocks or commented-out lines
 -improve the logic of my folder and file system with more files and enhanced
 naming conventions
-
-```md
